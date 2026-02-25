@@ -24,4 +24,3 @@ Welcome to my profile! I'm just a **CS student** exploring my interests. Here ar
 ### My Stats
 [![Maxi's Streak](https://streak-stats.demolab.com/?user=maxi-cmyk&theme=tokyonight)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/maxi-cmyk/maxi-cmyk/raw/output/github-contribution-grid-snake-dark.svg)
