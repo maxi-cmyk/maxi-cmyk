@@ -14,10 +14,10 @@ Welcome to my profile! I'm just a **CS student** exploring my interests. Here ar
 ---
 
 ### Specific interests
-* **Hardware:** Tinkering with ESP32 & Arduino (`hardware-stuffs`)
-* **Bots:** Building automation tools (`Telegram_bots`)
-* **AR/VR:** Experimenting with Holograms and AR/VR (`hologram_AR`)
-* **Web/App development:** projects using TypeScript (`echo`)
+* **Hardware:** Tinkering with ESP32 & Arduino 
+* **Bots:** Building automation tools 
+* **AR/VR:** Experimenting with Holograms and AR/VR 
+* **Web/App development:** projects using TypeScript 
 
 ---
 
