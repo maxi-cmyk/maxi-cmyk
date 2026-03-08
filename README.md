@@ -1,6 +1,6 @@
 # Hi there, i'm max! 👋
 
-Welcome to my profile! I'm just a **CS student** exploring my interests. Here are the languages that I have picked up, and some of the projects I'm working on!
+Welcome to my profile! I'm just a CS student exploring my interests. Here are the languages that I have picked up, and some of the projects I'm working on!
 
 ---
 
