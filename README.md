@@ -27,7 +27,7 @@ CS student building things that sit at the physical-digital boundary - hardware 
 
 ---
 
-### What I'm working on curently
+### What I'm working on currently
 
 **[conway_game_of_life](https://github.com/maxi-cmyk/conway_game_of_life)** `in progress`
 
