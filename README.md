@@ -2,7 +2,7 @@
 
 CS student building things that sit at the physical-digital boundary - hardware that generates data, computer vision that reacts to the world, and the occasional proof-of-concept that something interesting is happening underneath.
 
-📫 [LinkedIn](www.linkedin.com/in/maxleongruisheng) · [Email](max.leong.2025@computing.smu.edu.sg) 
+[LinkedIn](www.linkedin.com/in/maxleongruisheng) · [Email](max.leong.2025@computing.smu.edu.sg) 
 
 ---
 
