@@ -2,7 +2,8 @@
 
 CS student building things that sit at the physical-digital boundary - hardware that generates data, computer vision that reacts to the world, and the occasional proof-of-concept that something interesting is happening underneath.
 
-[LinkedIn](www.linkedin.com/in/maxleongruisheng) · [Email](max.leong.2025@computing.smu.edu.sg) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxleongruisheng)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:max.leong.2025@computing.smu.edu.sg)
 
 ---
 
@@ -57,7 +58,7 @@ ESP32 runs Conway's Game of Life on a 32×8 LED matrix; a React dashboard stream
 
 | Project | Description |
 |---------|-------------|
-| [hardware_fun](https://github.com/maxi-cmyk/hardware-stuffs) | A running log of hardware experiments — ESP32, Arduino, sensors, and circuits -> `C++` |
+| [hardware_fun](https://github.com/maxi-cmyk/hardware_fun) | A running log of hardware experiments — ESP32, Arduino, sensors, and circuits -> `C++` |
 | [Telegram_bots](https://github.com/maxi-cmyk/Telegram_bots) | Collection of Telegram bots built for automation and utility -> `Python` |
 
 #### Resources
