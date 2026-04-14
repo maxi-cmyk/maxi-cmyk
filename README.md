@@ -27,13 +27,15 @@ CS student building things that sit at the physical-digital boundary - hardware 
 
 ---
 
-### What I'm working on currently
+### What I'm currently working on
 
-**[conway_game_of_life](https://github.com/maxi-cmyk/conway_game_of_life)** `in progress`
+**[conway_game_of_life](https://github.com/maxi-cmyk/conway_game_of_life)** `Data Factory`
+ESP32 runs Conway's Game of Life on a 32×8 LED matrix, streaming live entropy and birth/death pressure to a React dashboard over SSE. Currently building an SQLite data pipeline to capture session telemetry, with the goal of training a predictive ML classifier on emergent "edge-of-chaos" behavior.
+> `C++` `ESP32` `React` `SQLite` `Scikit-Learn`
 
-ESP32 runs Conway's Game of Life on a 32×8 LED matrix; a React dashboard streams live entropy, birth/death pressure, and autocorrelation over SSE; collected session data is then analysed in a Jupyter notebook to test whether edge-of-chaos behaviour emerges reliably from purely local rules.
-
-`C++` `ESP32` `React` `Python` `data science`
+**[network_sniffer](https://github.com/maxi-cmyk/network_sniffer)** `Digital Oscilloscope`
+Real-time network telemetry and protocol analysis engine. Built a custom Python packet decoder and Next.js dashboard with live WebSocket streaming. Currently setting up an ESP32 as a "red-team" hardware trigger to generate periodic synthetic attacks, aiming to train a model that classifies machine vs. human traffic based on packet inter-arrival times.
+> `Python` `FastAPI` `Next.js` `Scapy` `Data Science`
 
 ---
 
