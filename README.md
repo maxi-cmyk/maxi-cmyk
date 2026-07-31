@@ -28,13 +28,6 @@ I like working with messy real-world signals—video, audio, network traffic, an
 | [Network Sniffer](https://github.com/maxi-cmyk/network_sniffer) | Real-time packet capture and telemetry dashboard built with Scapy, FastAPI, WebSockets, and Next.js. |
 | [NFC Portfolio Card](https://github.com/maxi-cmyk/nfc-portfolio-card) | A physical NFC portfolio card connecting a real-world interaction to a digital personal site. |
 
-### Computer vision & interactive AI
-
-| Project | Description |
-|---|---|
-| [Hologram AR](https://github.com/maxi-cmyk/hologram_AR) | Real-time webcam AR using MediaPipe hand tracking for interactive overlays, gesture-triggered effects, and spatial interaction. |
-| [anti_brainrot](https://github.com/maxi-cmyk/anti_brainrot) | Webcam focus monitor using face-landmark tracking to detect phone distraction and trigger interventions. |
-
 ### Hardware, data & experimentation
 
 | Project | Description |
@@ -43,14 +36,22 @@ I like working with messy real-world signals—video, audio, network traffic, an
 | [ESP32 Asteroids](https://github.com/maxi-cmyk/asteriods) | A breadboard-based Asteroids arcade game built on an ESP32 with a 128×64 OLED display, joystick controls, PWM sound effects, persistent high scores, adaptive difficulty, and an AI-driven attract mode. |
 | [Python-to-C logic](https://github.com/maxi-cmyk/Python-to-C-logic-) | LeetCode solutions ported from Python to C to build low-level programming intuition. |
 
+### Computer vision & interactive AI
+
+| Project | Description |
+|---|---|
+| [Hologram AR](https://github.com/maxi-cmyk/hologram_AR) | Real-time webcam AR using MediaPipe hand tracking for interactive overlays, gesture-triggered effects, and spatial interaction. |
+| [anti_brainrot](https://github.com/maxi-cmyk/anti_brainrot) | Webcam focus monitor using face-landmark tracking to detect phone distraction and trigger interventions. |
+
 ---
 
 ## Hackathons
 
 [View my Devpost profile →](https://devpost.com/maxi-cmyk)
 
+### Notable Wins 
 ### [it'sPEAK](https://github.com/maxi-cmyk/it-sPeak)
-**2nd Place · SMU Hackathon**
+**2nd Place · SMU .Hack Enrichment Application Programme (HEAP) Hackathon 2026**
 
 A private presentation-practice coach that turns a short recording into evidence-based feedback.
 
@@ -61,7 +62,7 @@ it'sPEAK analyses observable delivery signals including pacing, pitch variation,
 ### [Echo](https://github.com/maxi-cmyk/echo)
 **Best Freshmen Award · iNTUition 2026**
 
-A reminiscence-therapy companion for people with cognitive impairment.
+A reminiscence-therapy companion for people with dementia.
 
 Echo prioritises familiar memories over constant novelty and adapts its interactions to reduce overload during vulnerable moments.
 
