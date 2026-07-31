@@ -1,77 +1,96 @@
-# hey, i'm max 
+# hey, i'm max
 
-CS student building things that sit at the physical-digital boundary - hardware that generates data, computer vision that reacts to the world, and the occasional proof-of-concept that something interesting is happening underneath.
+CS student building applied AI systems, real-time interfaces, and projects at the physical–digital boundary.
+
+I like working with messy real-world signals—video, audio, network traffic, and sensor data—and turning them into tools that people can actually use.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxleongruisheng)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:max.leong.2025@computing.smu.edu.sg)
 
 ---
 
-### Languages & tools
+## Current focus
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- Building **applied AI products** with computer vision, audio analysis, and useful user feedback.
+- Designing **real-time systems** with streaming data, asynchronous processing, and responsive interfaces.
+- Exploring **physical–digital interaction** through ESP32s, sensors, hardware controls, and visual interfaces.
+- Strengthening practical full-stack engineering with **React, Next.js, FastAPI, TypeScript, Python, and Supabase**.
 
 ---
 
-### What I'm currently working on
+## Projects
 
-**[conway_game_of_life](https://github.com/maxi-cmyk/conway_game_of_life)** `Data Factory`
-ESP32 runs Conway's Game of Life on a 32×8 LED matrix, streaming live entropy and birth/death pressure to a React dashboard over SSE. Currently building an SQLite data pipeline to capture session telemetry, with the goal of training a predictive ML classifier on emergent "edge-of-chaos" behavior.
-> `C++` `ESP32` `React` `SQLite` `Scikit-Learn`
+### Real-time systems & interactive software
 
-**[network_sniffer](https://github.com/maxi-cmyk/network_sniffer)** `Digital Oscilloscope`
-Real-time network telemetry and protocol analysis engine. Built a custom Python packet decoder and Next.js dashboard with live WebSocket streaming. Currently setting up an ESP32 as a "red-team" hardware trigger to generate periodic synthetic attacks, aiming to train a model that classifies machine vs. human traffic based on packet inter-arrival times.
-> `Python` `FastAPI` `Next.js` `Scapy` `Data Science`
+| Project | Description |
+|---|---|
+| [Shiftwork](https://github.com/maxi-cmyk/shifting_work) | A desktop productivity app built around a six-speed manual gearbox. Tasks are assigned to gears, then worked through with an H-pattern shifter to make pace feel deliberate and physical. |
+| [Network Sniffer](https://github.com/maxi-cmyk/network_sniffer) | Real-time packet capture and telemetry dashboard built with Scapy, FastAPI, WebSockets, and Next.js. |
+| [NFC Portfolio Card](https://github.com/maxi-cmyk/nfc-portfolio-card) | A physical NFC portfolio card connecting a real-world interaction to a digital personal site. |
+
+### Computer vision & interactive AI
+
+| Project | Description |
+|---|---|
+| [Hologram AR](https://github.com/maxi-cmyk/hologram_AR) | Real-time webcam AR using MediaPipe hand tracking for interactive overlays, gesture-triggered effects, and spatial interaction. |
+| [anti_brainrot](https://github.com/maxi-cmyk/anti_brainrot) | Webcam focus monitor using face-landmark tracking to detect phone distraction and trigger interventions. |
+
+### Hardware, data & experimentation
+
+| Project | Description |
+|---|---|
+| [Conway's Game of Life Data Factory](https://github.com/maxi-cmyk/conway_game_of_life) | ESP32-powered Conway's Game of Life on a 32×8 LED matrix, streaming entropy and birth/death telemetry to a React dashboard. |
+| [ESP32 Asteroids](https://github.com/maxi-cmyk/asteriods) | A breadboard-based Asteroids arcade game built on an ESP32 with a 128×64 OLED display, joystick controls, PWM sound effects, persistent high scores, adaptive difficulty, and an AI-driven attract mode. |
+| [Python-to-C logic](https://github.com/maxi-cmyk/Python-to-C-logic-) | LeetCode solutions ported from Python to C to build low-level programming intuition. |
 
 ---
 
-### Projects
+## Hackathons
 
-#### Hackathons
+[View my Devpost profile →](https://devpost.com/maxi-cmyk)
 
-| Project | Description |
-|---------|-------------|
-| [cekcek](https://github.com/maxi-cmyk/cekcek) | Hackomania — smart home energy app for SP Energy with NILM-based appliance disaggregation, spike detection, and gamified sustainability tracking -> `Next.js` `FastAPI` `Python` |
-| [lockingang](https://github.com/maxi-cmyk/lockingang) | DLW 2026 — local-first desktop study engine that models per-topic knowledge decay in real-time, driving a RAG-powered AI tutor and forgetting-curve-optimised review scheduler -> `Electron` `React` `Python` |
-| [echo](https://github.com/maxi-cmyk/echo) | iNTUition 2026 (best freshman) — TikTok-style reminiscence therapy PWA for dementia patients, with local LLaVA vision narration, voice cloning, and an adaptive sundowning mode -> `TypeScript` `Next.js` `Supabase` |
+### [it'sPEAK](https://github.com/maxi-cmyk/it-sPeak)
+**2nd Place · SMU Hackathon**
 
-#### Computer vision & AR/VR
+A private presentation-practice coach that turns a short recording into evidence-based feedback.
 
-| Project | Description |
-|---------|-------------|
-| [hologram_AR](https://github.com/maxi-cmyk/hologram_AR) | Real-time AR overlay that uses MediaPipe hand tracking to render an interactive exoskeleton, holographic diamond, and gesture-triggered repulsor weapon on your webcam feed -> `Python` `MediaPipe` `OpenCV` |
-| [anti_brainrot](https://github.com/maxi-cmyk/anti_brainrot) | Webcam focus monitor that uses MediaPipe face landmark tracking to detect phone distraction, then hijacks your screen with a random meme and alarm until you look back -> `Python` `MediaPipe` |
+it'sPEAK analyses observable delivery signals including pacing, pitch variation, filler words, pause quality, eye-contact proxy, posture, gesture range, and movement. Users can compare later rehearsals against a protected baseline to see measurable progress.
 
-#### Hardware & automation
+`Python` `FastAPI` `Next.js` `MediaPipe` `Librosa` `Whisper` `Celery` `Redis` `Supabase`
 
-| Project | Description |
-|---------|-------------|
-| [hardware_fun](https://github.com/maxi-cmyk/hardware_fun) | A running log of hardware experiments — ESP32, Arduino, sensors, and circuits -> `C++` |
-| [Telegram_bots](https://github.com/maxi-cmyk/Telegram_bots) | Collection of Telegram bots built for automation and utility -> `Python` |
+### [Echo](https://github.com/maxi-cmyk/echo)
+**Best Freshmen Award · iNTUition 2026**
 
-#### Resources
+A reminiscence-therapy companion for people with cognitive impairment.
 
-| Project | Description |
-|---------|-------------|
-| [python_to_c](https://github.com/maxi-cmyk/python_to_c) | LeetCode solutions ported Python → C, to build low-level intuition -> `C` |
-| [help_me_papi](https://github.com/maxi-cmyk/help_me_papi) | Dev tools, prompts, and resources I actually reach for |
+Echo prioritises familiar memories over constant novelty and adapts its interactions to reduce overload during vulnerable moments.
+
+`TypeScript` `Next.js` `Supabase` `Computer Vision`
 
 ---
 
-### My Stats
+## Languages & tools
+
+**Languages**
+
+`Python` `TypeScript` `JavaScript` `C` `C++`
+
+**Frontend & product**
+
+`React` `Next.js` `Electron` `Vite`
+
+**Backend & data**
+
+`FastAPI` `Supabase` `Redis` `Celery` `SQLite` `WebSockets`
+
+**AI & computer vision**
+
+`MediaPipe` `OpenCV` `Librosa` `Whisper`
+
+**Hardware**
+
+`ESP32` `Arduino` `Sensors` `LED systems`
+
+---
 
 [![Maxi's Streak](https://streak-stats.demolab.com/?user=maxi-cmyk&theme=tokyonight)](https://git.io/streak-stats)
