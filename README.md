@@ -110,5 +110,3 @@ Echo prioritises familiar memories over constant novelty and adapts its interact
 ![Blynk](https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge&logo=blynk&logoColor=white)
 
 ---
-
-[![Maxi's Streak](https://streak-stats.demolab.com/?user=maxi-cmyk&theme=tokyonight)](https://git.io/streak-stats)
